@@ -1,0 +1,16 @@
+{
+  "name": "telegram-auto-poster",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Faqat egasi boshqaradigan, Telegram akkaunti nomidan guruhlarga xabar yuboruvchi bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "input": "^1.0.1",
+    "telegraf": "^4.16.3",
+    "teleproto": "^1.232.0"
+  }
+}
